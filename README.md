@@ -1,1 +1,1 @@
-College projects
+Data science college projects
