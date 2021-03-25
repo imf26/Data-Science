@@ -1,1 +1,1 @@
-<span style="font-family: 'Data science college projects';">foo</span>
+<span style="font-family: 'Lucida Console';">Data science college projects</span>
